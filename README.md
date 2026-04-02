@@ -1,4 +1,4 @@
-# Go Lavat
+# lavatx
 
 A small terminal animation project written in Go.
 
